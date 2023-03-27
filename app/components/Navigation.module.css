@@ -1,0 +1,12 @@
+.header {
+    font-family: var(--font-mono);
+    border: 1px solid black;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.navigation {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
